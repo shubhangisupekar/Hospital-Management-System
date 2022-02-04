@@ -1,0 +1,36 @@
+
+
+li{
+    float:left;
+    border-right: none;   
+}
+a{
+    display:block;
+    padding: 0 28px;
+    color:pink;
+    text-decoration:none;
+ 
+ }
+ a:hover{
+    background-color: blue;
+}
+ul{
+    list-style-type: none;
+}
+.image{
+   
+    width:100%;
+    height:450px;
+}
+.image1{
+    margin:10px;
+    width:25%;
+    height:300px;
+    border: 1px solid #ccc;
+    float: left;
+    padding: 15px;
+    margin-right:10px;
+    margin-left:80px;
+}
+
+
